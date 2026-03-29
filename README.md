@@ -1,6 +1,6 @@
 # AutoResearch
 
-AutoResearch is a lightweight multi-agent research pipeline built for the CSE598 small assignment. It takes a natural-language question, decomposes it into sub-questions, retrieves public web snippets, distills those snippets into grounded facts, critiques coverage, and writes a final Markdown report plus a JSON execution trace.
+AutoResearch is a lightweight multi-agent research pipeline built and inspired by Karpathy's work. It takes a natural-language question, decomposes it into sub-questions, retrieves public web snippets, distills those snippets into grounded facts, critiques coverage, and writes a final Markdown report plus a JSON execution trace.
 
 ## Setup
 
